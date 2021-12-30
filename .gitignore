@@ -1,3 +1,10 @@
 ###> darkanakin41/project-generator
 .idea
 ###< darkanakin41/project-generator
+###> gfi-centre-ouest/docker-devbox ###
+/docker-compose.yml
+/.bin/gitlab-runner
+/*ddb.local.*
+/.bash_enter
+/.bash_leave
+###< gfi-centre-ouest/docker-devbox ###
